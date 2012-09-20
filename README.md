@@ -8,3 +8,7 @@ Extensions
  - mongo
  - intl
  - memcache
+
+newer memcached lib can be found here:
+https://github.com/majksner/php-memcached-mamp
+
