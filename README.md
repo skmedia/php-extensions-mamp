@@ -1,4 +1,4 @@
-PHP extension libs for MAMP
+Compiled PHP extension libs for MAMP
 
 PHP versions
  - php 5.3.14
